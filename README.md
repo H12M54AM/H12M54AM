@@ -4,9 +4,9 @@ Its nice that you have found this profile.
 ## Weapons of Choice
 Some of the common languages you will see are:
 
-- Rust, 
-- Typescript,
-- Python,
+- **Rust**, 
+- **Python**
+- **Typescript**,
 - Go,
 - C++, etc
 
