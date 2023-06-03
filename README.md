@@ -26,4 +26,4 @@ You can find me on:
 
 - dev.to: [@edward_naidoo](https://dev.to/edward_naidoo), 
 - Twitter: [@EWNaidoo](twitter.com/EWNaidoo),
-- My Website: *Currently Under Construction*
+- My Website: [edwardcreates](https://edwardcreates.netlify.app/)
