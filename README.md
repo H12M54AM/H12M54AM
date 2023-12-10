@@ -24,6 +24,6 @@ I do have experience using those languages, including more that I have not menti
 ## Where to find me?
 You can find me on:
 
+- My Website: [edwardcreates.ca](https://edwardcreates.ca/)
 - dev.to: [@edward_naidoo](https://dev.to/edward_naidoo), 
 - Twitter: [@EWNaidoo](twitter.com/EWNaidoo),
-- My Website: [edwardcreates](https://edwardcreates.netlify.app/)
