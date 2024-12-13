@@ -20,8 +20,6 @@ I do have experience using those languages, including more that I have not menti
 
 #### Focused Occupations
 - **Full Stack Developer**,
-- **Frontend Developer**,
-- **Backend Developer**,
 - Software Developer
 
 #### Frameworks
@@ -29,8 +27,7 @@ I do have experience using those languages, including more that I have not menti
 - **Reactjs**,
 
 ## What I'm learning right now
-- ML w/ Python
-- Matplotlib,
+- HTMX + Go
 - Rust,
 
 ## Where to find me?
